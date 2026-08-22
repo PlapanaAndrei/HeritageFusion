@@ -1,0 +1,112 @@
+.cerere-page h2 {
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-lemn) !important;
+    font-size: 1.8rem !important;
+    letter-spacing: 0.01em !important;
+}
+
+.cerere-page .cerere-desc p {
+    font-family: var(--font-corp) !important;
+    font-size: 1.05rem !important;
+    line-height: 1.8 !important;
+    color: var(--text-secundar) !important;
+    text-align: center !important;
+    max-width: 520px !important;
+    margin: 0 auto 1.5rem auto !important;
+}
+
+.cerere-form-card {
+    background: var(--alb-cald);
+    border: 1px solid var(--border-subtil);
+    border-radius: var(--raza-mare);
+    padding: 2rem;
+    box-shadow:
+        0 4px 24px var(--umbra-usoara),
+        inset 0 1px 0 rgba(255,255,255,0.8);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.cerere-form-card label,
+.stTextInput label,
+.stTextArea label{
+    font-family: var(--font-ui) !important;
+    font-size: 0.88rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.07em !important;
+    color: var(--text-tertiar) !important;
+}
+
+.cerere-instrument input {
+    font-family: var(--font-titlu) !important;
+    font-size: 1.1rem !important;
+    color: var(--maro-inchis) !important;
+}
+
+.cerere-descriere textarea {
+    font-family: var(--font-corp) !important;
+    font-size: 1rem !important;
+    min-height: 100px !important;
+    resize: vertical !important;
+}
+
+.cerere-submit .stButton > button,
+[data-testid="stFormSubmitButton"] > button {
+    background: linear-gradient(135deg, var(--terracota) 0%, var(--terracota-dark) 100%) !important;
+    color: white !important;
+    border: none !important;
+    padding: 0.65rem 2.5rem !important;
+    font-family: var(--font-ui) !important;
+    font-weight: 600 !important;
+    font-size: 0.95rem !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    border-radius: var(--raza-medie) !important;
+    box-shadow: 0 4px 20px rgba(192, 99, 74, 0.4) !important;
+    width: 100% !important;
+    margin-top: 0.5rem !important;
+    transition: var(--tranzitie) !important;
+}
+
+[data-testid="stFormSubmitButton"] > button:hover {
+    background: linear-gradient(135deg, var(--terracota-dark) 0%, var(--maro-lemn) 100%) !important;
+    box-shadow: 0 6px 28px rgba(192, 99, 74, 0.55) !important;
+    transform: translateY(-2px) !important;
+}
+
+.cerere-success {
+    text-align: center;
+    padding: 2rem;
+}
+
+.cerere-success .stSuccess {
+    font-family: var(--font-titlu) !important;
+    font-size: 1.2rem !important;
+    text-align: center !important;
+    padding: 1.2rem 1.5rem !important;
+}
+
+.cerere-icon {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.required-note {
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--terracota);
+    margin-top: -0.3rem;
+    margin-bottom: 0.8rem;
+}
+
+@keyframes slideInForm {
+    from { opacity: 0; transform: translateY(24px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.cerere-form-card {
+    animation: slideInForm 0.4s ease both;
+}

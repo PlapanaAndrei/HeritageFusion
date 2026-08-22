@@ -1,0 +1,146 @@
+.chat-page h1,
+h1 {
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-inchis) !important;
+    text-align: center !important;
+}
+
+[data-testid="stBottom"],
+[data-testid="stBottom"] > div,
+[data-testid="stBottom"] > div > div,
+[data-testid="stBottom"] > div > div > div {
+    background: transparent !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.stChatFloatingInputContainer,
+.stChatFloatingInputContainer > div,
+.stChatFloatingInputContainer > div > div {
+    background: transparent !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+footer,
+footer * {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+div[class*="bottom"],
+div[class*="Bottom"],
+div[class*="chatInput"],
+div[class*="ChatInput"] {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+[data-testid="stChatInput"] {
+    background: rgba(253, 250, 245, 0.97) !important;
+    background-color: rgba(253, 250, 245, 0.97) !important;
+    border: 2px solid var(--border-mediu) !important;
+    border-radius: var(--raza-mare) !important;
+    box-shadow: 0 4px 24px var(--umbra-medie) !important;
+    padding: 0.2rem 0.4rem !important;
+}
+
+[data-testid="stChatInput"]:focus-within {
+    border-color: var(--terracota) !important;
+    box-shadow: 0 4px 24px rgba(192, 99, 74, 0.2) !important;
+}
+
+[data-testid="stChatInput"] > div,
+[data-testid="stChatInput"] > div > div,
+[data-testid="stChatInput"] > div > div > div {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+[data-testid="stChatInput"] textarea {
+    background: transparent !important;
+    background-color: transparent !important;
+    color: var(--text-principal) !important;
+    font-family: var(--font-ui) !important;
+    font-size: 0.95rem !important;
+    caret-color: var(--terracota) !important;
+}
+
+[data-testid="stChatInput"] textarea::placeholder {
+    color: var(--text-tertiar) !important;
+    opacity: 0.75 !important;
+}
+
+[data-testid="stChatInput"] button,
+[data-testid="stChatInput"] button * {
+    background: var(--terracota) !important;
+    background-color: var(--terracota) !important;
+    color: white !important;
+    border-radius: 50% !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(192, 99, 74, 0.4) !important;
+}
+
+[data-testid="stChatInput"] button:hover {
+    background: var(--terracota-dark) !important;
+    background-color: var(--terracota-dark) !important;
+}
+
+[data-testid="stChatMessageContainer"] {
+    padding: 0.5rem 0 !important;
+}
+
+[data-testid="stChatMessage"][data-type="user"] {
+    background: linear-gradient(135deg,
+        rgba(192, 99, 74, 0.12),
+        rgba(192, 99, 74, 0.06)) !important;
+    border: 1px solid rgba(192, 99, 74, 0.22) !important;
+    border-radius: var(--raza-mare) var(--raza-mare)
+                   var(--raza-mica) var(--raza-mare) !important;
+    padding: 0.8rem 1.2rem !important;
+    margin-left: 3rem !important;
+    box-shadow: 0 2px 12px var(--umbra-usoara) !important;
+    backdrop-filter: blur(4px) !important;
+}
+
+[data-testid="stChatMessage"][data-type="assistant"] {
+    background: linear-gradient(135deg,
+        rgba(253, 250, 245, 0.92),
+        rgba(234, 224, 204, 0.85)) !important;
+    border: 1px solid var(--border-subtil) !important;
+    border-radius: var(--raza-mica) var(--raza-mare)
+                   var(--raza-mare) var(--raza-mare) !important;
+    padding: 0.8rem 1.2rem !important;
+    margin-right: 3rem !important;
+    box-shadow: 0 2px 12px var(--umbra-usoara) !important;
+    backdrop-filter: blur(4px) !important;
+}
+
+[data-testid="stChatMessage"] p,
+[data-testid="stChatMessage"] span,
+[data-testid="stChatMessage"] div {
+    color: var(--text-principal) !important;
+    font-family: var(--font-corp) !important;
+    font-size: 1.05rem !important;
+    line-height: 1.7 !important;
+}
+
+.chat-intro {
+    background: rgba(253, 250, 245, 0.88) !important;
+    border: 1px solid var(--border-subtil) !important;
+    border-left: 4px solid var(--auriu) !important;
+    border-radius: var(--raza-medie) !important;
+    padding: 1.2rem 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+    backdrop-filter: blur(4px) !important;
+    box-shadow: 0 2px 12px var(--umbra-usoara) !important;
+}
+
+.chat-intro p,
+.chat-intro strong,
+.chat-intro span {
+    color: var(--text-principal) !important;
+    font-family: var(--font-corp) !important;
+    font-size: 1rem !important;
+    line-height: 1.7 !important;
+}

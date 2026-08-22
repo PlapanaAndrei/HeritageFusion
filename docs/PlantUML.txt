@@ -1,0 +1,78 @@
+@startuml HeritageFusion_ML_Pipeline
+
+skinparam packageStyle rectangle
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #444444
+skinparam ArrowThickness 1.5
+skinparam packageFontColor #000000
+skinparam packageFontStyle bold
+skinparam packagaBorderColor #444444
+skinparam packageBackgroundColor white
+
+package "Date" #D4EDE1 {
+    package "Audio" #B8DFCC {
+        [DataSetAudio/]
+        [train / test]
+    }
+    package "Imagini" #B8DFCC {
+        [DatasetFinal/]
+        [train / test / valid]
+    }
+    package "Configurare" #B8DFCC {
+        [config.txt]
+    }
+}
+
+package "Pregatirea_datelor" #D6EAF8 {
+    [organizareImagini_py]
+    [extract_features.py]
+}
+
+package "Preprocesare" #E8D5F5 {
+    [Audio - MFCC extractor\nlibrosa → 13 coef → mean pe timp]
+    [Imagini - transforms\nResize 224x224 → ToTensor]
+}
+
+package "Antrenare" #FEF9C3 {
+    [train_audio.py\nAudioClassifier · Adam · 50 ep]
+    [train_images.py\nResNet18 fine-tune · Adam · 10 ep]
+}
+
+package "Evaluare" #FAD7D7 {
+    [audio_acuratete.npy]
+    [image_acuratete.npy]
+}
+
+package "Model" #E5E7E9 {
+    [audio_model.pth]
+    [image_model.pth]
+    [class_names.npy]
+    [config.txt ]
+}
+
+package "Inferenta" #D6EAF8 {
+    [reantrenare_model.py]
+    [app.py\nload_audio() / load_image()\nsoftmax → predict_label]
+}
+
+package "Interfata UI" #FDEBD0 {
+    [Streamlit\nadmin_page.py · chat_widget.py]
+}
+
+package "Baza_de_date" #FAD7D7 {
+    [database.py\nPostgreSQL · Docker]
+    [feedback]
+    [predictii]
+}
+
+[Date] -down-> [Pregatirea_datelor]
+[Pregatirea_datelor] -down-> [Preprocesare]
+[Preprocesare] -down-> [Antrenare]
+[Antrenare] -down-> [Evaluare]
+[Evaluare] -down-> [Model]
+[Model] -down-> [Inferenta]
+[Inferenta] -down-> [Interfata UI]
+[Inferenta] -down-> [Baza_de_date]
+
+@enduml

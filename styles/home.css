@@ -1,0 +1,166 @@
+.stApp h1 {
+    text-align: center !important;
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-inchis) !important;
+}
+.stApp h1,
+h1 {
+    font-family: var(--font-titlu) !important;
+    font-size: clamp(2.4rem, 5vw, 3.5rem) !important;
+    font-weight: 700 !important;
+    color: var(--maro-inchis) !important;
+    text-align: center !important;
+    letter-spacing: -0.01em !important;
+    margin: 0 auto 0.4rem auto !important;
+    padding-top: 1.5rem !important;
+    display: block !important;
+    width: 100% !important;
+}
+
+.stApp h1::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--terracota), var(--auriu));
+    margin: 0.6rem auto 0 auto;
+    border-radius: 2px;
+}
+
+.home-hero-card {
+    background: linear-gradient(135deg, var(--alb-cald) 0%, var(--crem-dark) 100%);
+    border: 1px solid var(--border-subtil);
+    border-radius: var(--raza-mare);
+    padding: 2.5rem 2.5rem 2rem 2.5rem;
+    box-shadow:
+        0 4px 24px var(--umbra-usoara),
+        inset 0 1px 0 rgba(255,255,255,0.9);
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+.home-hero-card::before {
+    content: '♪';
+    position: absolute;
+    top: -15px;
+    right: 24px;
+    font-size: 9rem;
+    opacity: 0.04;
+    color: var(--maro-lemn);
+    pointer-events: none;
+    font-family: var(--font-titlu);
+}
+
+.home-about h3 {
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-lemn) !important;
+    font-size: 1.4rem !important;
+    border-bottom: 2px solid var(--auriu-light) !important;
+    padding-bottom: 0.4rem !important;
+    display: inline-block !important;
+    margin-bottom: 0.8rem !important;
+}
+
+.home-about p,
+.home-about li {
+    font-family: var(--font-corp) !important;
+    font-size: 1.08rem !important;
+    line-height: 1.85 !important;
+    color: var(--text-secundar) !important;
+}
+
+.home-about ul {
+    padding-left: 1.2rem !important;
+}
+
+.home-about li::marker {
+    color: var(--terracota) !important;
+}
+
+.home-actions .stButton > button {
+    width: 100% !important;
+    padding: 0.8rem 1rem !important;
+    font-size: 1rem !important;
+    font-family: var(--font-ui) !important;
+    font-weight: 500 !important;
+    border-radius: var(--raza-medie) !important;
+    letter-spacing: 0.03em !important;
+}
+
+.home-actions .stButton:first-child > button {
+    background: linear-gradient(135deg, var(--terracota), var(--terracota-dark)) !important;
+    color: var(--alb-cald) !important;
+    border-color: var(--terracota-dark) !important;
+    box-shadow: 0 4px 16px rgba(192, 99, 74, 0.35) !important;
+}
+
+.home-actions .stButton:first-child > button:hover {
+    background: linear-gradient(135deg, var(--terracota-dark), var(--maro-lemn)) !important;
+    box-shadow: 0 6px 24px rgba(192, 99, 74, 0.5) !important;
+    transform: translateY(-2px) !important;
+}
+
+.home-actions .stButton:last-child > button {
+    background: linear-gradient(135deg, var(--auriu), var(--auriu-light)) !important;
+    color: var(--maro-inchis) !important;
+    border-color: var(--auriu) !important;
+    box-shadow: 0 4px 16px rgba(201, 149, 42, 0.3) !important;
+}
+
+.home-actions .stButton:last-child > button:hover {
+    background: linear-gradient(135deg, var(--auriu-light), var(--auriu)) !important;
+    box-shadow: 0 6px 24px rgba(201, 149, 42, 0.45) !important;
+    transform: translateY(-2px) !important;
+}
+
+.home-banner {
+    background: linear-gradient(90deg, var(--maro-inchis) 0%, var(--maro-lemn) 50%, var(--maro-inchis) 100%);
+    border-radius: var(--raza-medie);
+    padding: 0.65rem 1.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: var(--auriu-light) !important;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+}
+
+.feature-pill {
+    display: inline-block;
+    background: rgba(192, 99, 74, 0.1);
+    border: 1px solid rgba(192, 99, 74, 0.25);
+    border-radius: 50px;
+    padding: 0.3rem 0.9rem;
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    color: var(--terracota-dark) !important;
+    margin: 0.2rem;
+    font-weight: 500;
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.stApp > .main .block-container {
+    animation: fadeInUp 0.5s ease both;
+}
+
+.stApp .stButton > button[data-testid="stBaseButton-secondary"] {
+    background: rgba(62, 34, 16, 0.08) !important;
+    border: 1px solid var(--maro-lemn) !important;
+    color: var(--maro-lemn) !important;
+    font-size: 0.85rem !important;
+    padding: 0.35rem 1rem !important;
+    font-weight: 600 !important;
+}
+
+.stApp .stButton > button[data-testid="stBaseButton-secondary"]:hover {
+    background: var(--maro-lemn) !important;
+    color: var(--crem) !important;
+}
+
+

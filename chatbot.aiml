@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1">
+
+<category>
+<pattern>BUNA</pattern>
+<template>
+Salut! Sunt chatbotul HeritageFusion si sunt aici sa te ajut sa iti dezvolti cunostintele despre instrumentele muzicale.
+</template>
+</category>
+
+<category>
+<pattern>CE ESTE PIANUL</pattern>
+<template>
+Pianul este un instrument muzical acustic cu coarde inventat în Italia de către Bartolomeo Cristofori în jurul anului 1700, în care sunetul este produs de coarde metalice fixate pe o placă de rezonanță din lemn, lovite de ciocănele acoperite cu pâslă, prin intermediul unei claviaturi[1], care este compusă dintr-un rând de clape (mici pârghii) pe care interpretul le apasă sau le lovește cu degetele ambelor mâini. Pianele moderne au coardele montate într-un cadru metalic, de obicei turnat din fontă și finisat cu lac și pulbere de bronz (motiv pentru care este numit, impropriu, și „placă de bronz”). Acesta are rolul de a rezista tensiunii mari exercitate de coarde, care altfel ar deforma structura din lemn a pianului.
+O mica istorie este:
+Povestea pianului începe la jumătatea secolului al XII-lea cu primul său strămoș - monocordul cu clape - căruia ulterior i-au fost adăugate mai multe coarde, transformându-se în mult mai cunoscutul clavicord, care funcționa printr-un mecanism de atingere a coardelor în momentul apăsării clapelor. Până la începutul secolului al XV-lea, clavicordul ajungea să aibă zece coarde, fiecare dintre ele producând cel puțin două note prin atingerea coardelor în două puncte diferite pe lungimea acesteia.
+</template>
+</category>
+
+<category>
+<pattern>CE ESTE CHITARA</pattern>
+<template>
+Chitara este un instrument muzical cu coarde, care se joacă prin strângerea coardelor cu degetele sau cu un puiet. Este un instrument de tip chitara, care are o formă caracteristică cu o corp de lemn și o gât pe care sunt montate coardele. Chitara este folosită într-o varietate de stiluri muzicale, inclusiv rock, pop, blues și folk.
+</template>
+</category>
+
+<category>
+<pattern>CE ESTE BANJO</pattern>
+<template>
+Banjo este un instrument muzical cu coarde, care se joacă prin strângerea coardelor cu degetele sau cu un puiet. Este un instrument de tip chitara, care are o formă caracteristică cu o corp de lemn și o gât pe care sunt montate coardele. Banjo este folosit într-o varietate de stiluri muzicale, inclusiv bluegrass, country și folk.
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<template>
+Imi cer scuze, nu am inteles intrebarea sau instrumentul pe care il cauti nu il cunosc. Daca doresti sa adaugi un instrument te rog sa accesezi sectiunea de "Ajuta-ne sa ne dezvoltam sistemul" si fa o cerere pentru acel instrument.
+</template>
+</category>
+
+</aiml>

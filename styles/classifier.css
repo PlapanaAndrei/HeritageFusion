@@ -1,0 +1,386 @@
+.classifier-page h2,
+.classifier-page h3 {
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-lemn) !important;
+}
+
+.stButton > button[kind="primary"],
+.stButton > button {
+    position: relative;
+    overflow: hidden;
+}
+
+.stSuccess {
+    background: linear-gradient(135deg, rgba(107, 139, 84, 0.12), rgba(107, 139, 84, 0.06)) !important;
+    border: 1.5px solid rgba(107, 139, 84, 0.35) !important;
+    border-left: 4px solid #6B8B54 !important;
+    border-radius: var(--raza-medie) !important;
+    font-family: var(--font-titlu) !important;
+    font-size: 1.15rem !important;
+    padding: 1rem 1.4rem !important;
+}
+
+.stats-section {
+    background: var(--alb-cald);
+    border: 1px solid var(--border-subtil);
+    border-radius: var(--raza-mare);
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+    box-shadow: 0 4px 20px var(--umbra-usoara);
+}
+
+.stats-section h2 {
+    font-family: var(--font-titlu) !important;
+    color: var(--terracota-dark) !important;
+    font-size: 1.6rem !important;
+    border-bottom: 2px solid var(--auriu-light) !important;
+    padding-bottom: 0.5rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.stats-section h3 {
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-lemn) !important;
+    font-size: 1.15rem !important;
+    margin-top: 1.5rem !important;
+}
+
+.stCodeBlock {
+    border-radius: var(--raza-mica) !important;
+    border: 1px solid var(--border-subtil) !important;
+    font-size: 0.85rem !important;
+}
+
+.feedback-section {
+    background: linear-gradient(135deg, var(--crem-dark), var(--alb-cald));
+    border: 1px solid var(--border-subtil);
+    border-radius: var(--raza-medie);
+    padding: 1.2rem 1.5rem;
+    margin: 1.2rem 0;
+    text-align: center;
+}
+
+.feedback-section p {
+    font-family: var(--font-titlu) !important;
+    font-size: 1.05rem !important;
+    color: var(--maro-lemn) !important;
+    margin-bottom: 0.8rem !important;
+}
+
+.feedback-da .stButton > button {
+    background: linear-gradient(135deg, #6B8B54, #557340) !important;
+    color: white !important;
+    border: none !important;
+    font-weight: 600 !important;
+    box-shadow: 0 3px 12px rgba(107, 139, 84, 0.35) !important;
+}
+
+.feedback-nu .stButton > button {
+    background: linear-gradient(135deg, var(--terracota), var(--terracota-dark)) !important;
+    color: white !important;
+    border: none !important;
+    font-weight: 600 !important;
+    box-shadow: 0 3px 12px rgba(192, 99, 74, 0.35) !important;
+}
+
+[data-testid="stpyplot"] {
+    border-radius: var(--raza-medie) !important;
+    overflow: hidden !important;
+    box-shadow: 0 3px 16px var(--umbra-usoara) !important;
+    border: 1px solid var(--border-subtil) !important;
+}
+
+[data-testid="stImage"] img {
+    border-radius: var(--raza-medie) !important;
+    box-shadow: 0 4px 20px var(--umbra-medie) !important;
+    border: 2px solid var(--border-subtil) !important;
+}
+
+.diagram-desc p {
+    font-family: var(--font-corp) !important;
+    font-size: 1rem !important;
+    line-height: 1.75 !important;
+    color: var(--text-secundar) !important;
+    background: rgba(201, 149, 42, 0.05) !important;
+    border-left: 3px solid var(--auriu-light) !important;
+    padding: 0.7rem 1rem !important;
+    border-radius: 0 var(--raza-mica) var(--raza-mica) 0 !important;
+}
+
+.stRadio > div {
+    background: rgba(253, 250, 245, 0.75) !important;
+    backdrop-filter: blur(12px) !important;
+    border: 1px solid rgba(107, 66, 38, 0.18) !important;
+    border-radius: 40px !important;
+    padding: 0.5rem 1rem !important;
+    display: inline-flex !important;
+    gap: 0.5rem !important;
+    box-shadow: 0 4px 20px rgba(62, 34, 16, 0.08) !important;
+    margin-bottom: 1.5rem !important;
+}
+
+.stRadio div[role="radiogroup"] label {
+    font-family: var(--font-ui) !important;
+    font-size: 0.92rem !important;
+    font-weight: 600 !important;
+    color: var(--text-secundar) !important;
+    padding: 0.45rem 1.4rem !important;
+    border-radius: 30px !important;
+    border: 1.5px solid transparent !important;
+    transition: all 0.2s ease !important;
+    cursor: pointer !important;
+}
+
+.stRadio div[role="radiogroup"] label:hover {
+    background: rgba(192, 99, 74, 0.1) !important;
+    color: var(--terracota) !important;
+    border-color: rgba(192, 99, 74, 0.3) !important;
+}
+
+.stRadio div[role="radiogroup"] label:has(input:checked) {
+    background: linear-gradient(135deg, var(--terracota), var(--terracota-dark)) !important;
+    color: white !important;
+    border-color: var(--terracota-dark) !important;
+    box-shadow: 0 3px 12px rgba(192, 99, 74, 0.35) !important;
+}
+
+
+.analyze-btn {
+    display: flex !important;
+    justify-content: center !important; 
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+
+.analyze-btn .stButton > button {
+    background: #FFFFFF !important;
+    color: var(--text-principal) !important;
+    border: 1px solid rgba(107, 66, 38, 0.25) !important;
+    border-radius: 8px !important;      
+    padding: 0.6rem 2.5rem !important;  
+    font-size: 0.95rem !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.02em !important;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05) !important;
+    transition: all 0.25s ease !important;
+}
+
+.analyze-btn .stButton > button:hover {
+    background: var(--crem) !important;  
+    border-color: var(--terracota) !important;
+    box-shadow: 0 4px 15px rgba(192, 99, 74, 0.15) !important;
+    transform: translateY(-1px) !important;
+}
+
+
+.classifier-page-card {
+    background: rgba(253, 250, 245, 0.45) !important;  
+    backdrop-filter: blur(12px) !important;             
+    border: 1px solid rgba(255, 255, 255, 0.4) !important;
+    border-radius: var(--raza-mare) !important;
+    padding: 2.5rem !important;
+    box-shadow: 0 10px 30px rgba(62, 34, 16, 0.06) !important;
+}
+
+.help-develop-btn .stButton > button {
+    width: auto !important;
+    background: linear-gradient(135deg, var(--auriu), var(--auriu-light)) !important;
+    color: var(--maro-inchis) !important;
+    border: none !important;
+    border-radius: var(--raza-medie) !important;
+    padding: 0.7rem 2rem !important;
+    font-size: 0.95rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.04em !important;
+    box-shadow: 0 4px 20px rgba(201, 149, 42, 0.35) !important;
+    transition: var(--tranzitie) !important;
+}
+
+.help-develop-btn .stButton > button:hover {
+    background: linear-gradient(135deg, var(--auriu-light), var(--auriu)) !important;
+    box-shadow: 0 6px 28px rgba(201, 149, 42, 0.5) !important;
+    transform: translateY(-2px) !important;
+}
+
+div[data-testid="stHorizontalBlock"] .stButton > button {
+    border-radius: 30px !important;
+    background: rgba(253, 250, 245, 0.65) !important;
+    backdrop-filter: blur(10px) !important;
+    border: 1px solid rgba(107, 66, 38, 0.15) !important;
+    color: var(--text-principal) !important;
+    font-weight: 500 !important;
+    font-size: 0.95rem !important;
+    padding: 0.5rem 1rem !important;
+    transition: all 0.2s ease !important;
+}
+
+div[data-testid="stHorizontalBlock"] .stButton > button:hover {
+    background: rgba(192, 99, 74, 0.08) !important;
+    border-color: var(--terracota) !important;
+    color: var(--terracota) !important;
+}
+
+.back-btn .stButton > button {
+    background: rgba(253, 250, 245, 0.8) !important;
+    border: 1.5px solid var(--border-mediu) !important;
+    border-radius: 10px !important;
+    color: var(--text-principal) !important;
+    font-size: 0.88rem !important;
+    font-weight: 600 !important;
+    padding: 0.4rem 1rem !important;
+    backdrop-filter: blur(8px) !important;
+    box-shadow: 0 2px 10px var(--umbra-usoara) !important;
+}
+
+.back-btn .stButton > button:hover {
+    background: var(--crem-dark) !important;
+    border-color: var(--terracota) !important;
+    color: var(--terracota) !important;
+    transform: translateX(-2px) !important;
+}
+
+div[data-testid="stFileUploader"] {
+    background: rgba(253, 250, 245, 0.6) !important;
+    border: 2px dashed rgba(107, 66, 38, 0.3) !important;
+    border-radius: var(--raza-mare) !important;
+    padding: 0.5rem !important;
+    backdrop-filter: blur(8px) !important;
+    transition: var(--tranzitie) !important;
+}
+
+div[data-testid="stFileUploader"]:hover {
+    border-color: var(--terracota) !important;
+    background: rgba(253, 250, 245, 0.8) !important;
+    box-shadow: 0 4px 20px rgba(192, 99, 74, 0.1) !important;
+}
+
+div[data-testid="stFileUploader"] section {
+    background: transparent !important;
+    border: none !important;
+}
+
+div[data-testid="stFileUploader"] button {
+    background: transparent !important;
+    border: 1.5px solid var(--terracota) !important;
+    color: var(--terracota) !important;
+    border-radius: var(--raza-mica) !important;
+    font-weight: 600 !important;
+}
+
+div[data-testid="stFileUploader"] button:hover {
+    background: var(--terracota) !important;
+    color: white !important;
+}
+
+.classifier-page {
+    padding-top: 0.5rem !important;
+}
+
+.classifier-page h2 {
+    font-family: var(--font-titlu) !important;
+    color: var(--maro-lemn) !important;
+    font-size: 1.6rem !important;
+    margin-bottom: 0.3rem !important;
+}
+
+div[data-testid="stInfo"] {
+    background: rgba(201, 149, 42, 0.07) !important;
+    border-left: 4px solid var(--auriu) !important;
+    border-radius: var(--raza-medie) !important;
+    padding: 0.75rem 1.2rem !important;
+    margin-bottom: 1.2rem !important;
+    backdrop-filter: blur(4px) !important;
+}
+
+.analyze-btn {
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 1.2rem !important;
+    margin-bottom: 1.2rem !important;
+}
+
+.analyze-btn .stButton > button {
+    background: linear-gradient(135deg, var(--terracota), var(--terracota-dark)) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: var(--raza-medie) !important;
+    padding: 0.65rem 3rem !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.04em !important;
+    box-shadow: 0 4px 20px rgba(192, 99, 74, 0.4) !important;
+    transition: var(--tranzitie) !important;
+}
+
+.analyze-btn .stButton > button:hover {
+    background: linear-gradient(135deg, var(--terracota-dark), var(--maro-lemn)) !important;
+    box-shadow: 0 6px 28px rgba(192, 99, 74, 0.55) !important;
+    transform: translateY(-2px) !important;
+}
+
+div[data-testid="stSuccess"] {
+    background: linear-gradient(135deg,
+        rgba(107, 139, 84, 0.12),
+        rgba(107, 139, 84, 0.06)) !important;
+    border: 1.5px solid rgba(107, 139, 84, 0.35) !important;
+    border-left: 4px solid #6B8B54 !important;
+    border-radius: var(--raza-medie) !important;
+    font-family: var(--font-titlu) !important;
+    font-size: 1.2rem !important;
+    padding: 1rem 1.4rem !important;
+    backdrop-filter: blur(4px) !important;
+    margin: 1rem 0 !important;
+}
+
+hr {
+    border: none !important;
+    border-top: 1px solid var(--border-subtil) !important;
+    margin: 1.8rem 0 !important;
+    opacity: 0.6 !important;
+}
+
+div[data-testid="stHorizontalBlock"] [data-testid="stMetric"] {
+    background: rgba(253, 250, 245, 0.75) !important;
+    backdrop-filter: blur(8px) !important;
+    border: 1px solid var(--border-subtil) !important;
+    border-radius: var(--raza-medie) !important;
+    padding: 1rem 1.2rem !important;
+    box-shadow: 0 2px 12px var(--umbra-usoara) !important;
+    transition: var(--tranzitie) !important;
+}
+
+div[data-testid="stHorizontalBlock"] [data-testid="stMetric"]:hover {
+    box-shadow: 0 4px 20px var(--umbra-medie) !important;
+    border-color: var(--border-mediu) !important;
+    transform: translateY(-1px) !important;
+}
+
+[data-testid="stImage"],
+[data-testid="stpyplot"] {
+    border-radius: var(--raza-medie) !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 20px var(--umbra-usoara) !important;
+    border: 1px solid var(--border-subtil) !important;
+    margin: 0.8rem 0 !important;
+}
+
+.feedback-section {
+    background: linear-gradient(135deg,
+        rgba(253, 250, 245, 0.85),
+        rgba(234, 224, 204, 0.7)) !important;
+    border: 1px solid var(--border-subtil) !important;
+    border-radius: var(--raza-mare) !important;
+    padding: 1.5rem 2rem !important;
+    margin: 1.5rem 0 !important;
+    text-align: center !important;
+    backdrop-filter: blur(8px) !important;
+    box-shadow: 0 4px 20px var(--umbra-usoara) !important;
+}
+
+.help-develop-btn {
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 2rem !important;
+    padding-top: 1.5rem !important;
+    border-top: 1px solid var(--border-subtil) !important;
+}

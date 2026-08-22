@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+.streamlit
+venv
+.env
+DataSetAudio
+DataSetFinal
+*.brn
+*.csv
+*.xlsx
+Latex
+.git

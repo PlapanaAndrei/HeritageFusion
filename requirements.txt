@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+numpy
+librosa
+matplotlib
+Pillow
+aiml
