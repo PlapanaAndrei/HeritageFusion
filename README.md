@@ -1,25 +1,24 @@
 #HeritageFusion
 
-Aplicatie multimodala pentru recunoasterea si clasificarea artefactelor culturale folosind retele neuronale prin analiza 
-  -- semnalelor audio  
-  -- imagini
+Multimodal application for the recognition and classification of cultural artifacts using neural networks to analyze:
+  -- audio signals
+  -- images
 
-## Functionalitatile aplicatiei
-  - Clasificare instrumente muzicale din fisiere audio (WAV)
-  - Clasificare instrumente muzicale din imagini
-  - Chatbot educational depsre instrumente muzicale
-  - Panou de administrare pentru extinderea sistemului
+## Application Features
+  - Classification of musical instruments from audio files (WAV)
+  - Classification of musical instruments from images
+  - Educational chatbot about musical instruments
+  - Administration panel for system expansion
 
-## Tehnologii 
+## Technologies
   - Python
   - PostgreSQL, Docker
-  - librosa (audio), ResNet18 (imagini)
+  - librosa (audio), ResNet18 (images)
 
-## Instalare
-\'\'\' bash
+## Installation
+```bash
 docker-compose up --build
-\'\'\'
+```
 
-## Autor
-Plapana Andrei - Lucrare 2026
-
+## Author
+Plapana Andrei - 2026 Project
