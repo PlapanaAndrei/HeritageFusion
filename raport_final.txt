@@ -1,0 +1,40 @@
+======================================================================
+RAPORT FINAL — Evaluare multimodala HeritageFusion
+======================================================================
+
+
+TABEL 1 — Rezultate Audio-only (set de test propriu)
+----------------------------------------------------------------------
+Experiment     Accuracy    Precision   Recall      F1-score  
+Audio-only     98.69      %0.9810      0.9694      0.9749    
+(Evaluat pe 2523 exemple din setul de test)
+
+
+TABEL 2 — Rezultate Image-only (set de test propriu)
+----------------------------------------------------------------------
+Experiment     Accuracy    Precision   Recall      F1-score  
+Image-only     96.23      %0.9631      0.9617      0.9621    
+(Evaluat pe 292 exemple din setul de test)
+
+
+TABEL PRINCIPAL — Comparatie pe acelasi set de perechi multimodale
+(290 perechi audio-imagine, 11 clase comune)
+----------------------------------------------------------------------
+Model          Accuracy    Precision   Recall      F1-score  
+Audio-only     97.93      %0.9772      0.9754      0.9758    
+Image-only     96.21      %0.9628      0.9617      0.9619    
+Late Fusion    100.00     %1.0000      1.0000      1.0000    
+
+
+TABEL — Analiza complementaritatii modalitatilor
+----------------------------------------------------------------------
+Audio     Imagine   Nr. cazuri  Procent   
+Corect    Corect    274         94.5     %
+Corect    Gresit    10          3.4      %
+Gresit    Corect    5           1.7      %
+Gresit    Gresit    1           0.3      %
+
+
+CONCLUZIE AUTOMATA
+----------------------------------------------------------------------
+Late Fusion imbunatateste performanta cu 2.07 puncte procentuale fata de cel mai bun model unimodal (Audio, 97.93%).

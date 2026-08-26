@@ -1,0 +1,57 @@
+[
+  {
+    "nume_canonic": "Accordion",
+    "folder_audio": "Accordion",
+    "folder_imagine": "Accordion"
+  },
+  {
+    "nume_canonic": "Banjo",
+    "folder_audio": "Banjo",
+    "folder_imagine": "banjo"
+  },
+  {
+    "nume_canonic": "Clarinet",
+    "folder_audio": "Clarinet",
+    "folder_imagine": "clarinet"
+  },
+  {
+    "nume_canonic": "flute",
+    "folder_audio": "flute",
+    "folder_imagine": "flute"
+  },
+  {
+    "nume_canonic": "Harmonica",
+    "folder_audio": "Harmonica",
+    "folder_imagine": "harmonica"
+  },
+  {
+    "nume_canonic": "Piano",
+    "folder_audio": "Piano",
+    "folder_imagine": "piano"
+  },
+  {
+    "nume_canonic": "Saxophone",
+    "folder_audio": "Saxophone",
+    "folder_imagine": "saxophone"
+  },
+  {
+    "nume_canonic": "Tambourine",
+    "folder_audio": "Tambourine",
+    "folder_imagine": "Tambourine"
+  },
+  {
+    "nume_canonic": "Trombone",
+    "folder_audio": "Trombone",
+    "folder_imagine": "trombone"
+  },
+  {
+    "nume_canonic": "Trumpet",
+    "folder_audio": "Trumpet",
+    "folder_imagine": "trumpet"
+  },
+  {
+    "nume_canonic": "Violin",
+    "folder_audio": "Violin",
+    "folder_imagine": "violin"
+  }
+]

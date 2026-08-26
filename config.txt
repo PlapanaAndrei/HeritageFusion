@@ -24,3 +24,11 @@ model_dir = models
 audio_hidden1 = 256
 audio_hidden2 = 128
 audio_dropout = 0.3
+
+[experiment]
+train_ratio = 0.70
+val_ratio = 0.15
+test_ratio = 0.15
+random_state = 42
+models_experiment_dir = models_experiment
+n_perechi_per_clasa = 50

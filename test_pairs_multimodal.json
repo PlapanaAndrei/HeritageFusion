@@ -1,0 +1,1452 @@
+[
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3123.wav",
+    "image_path": "DatasetFinal\\Accordion\\137.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3111.wav",
+    "image_path": "DatasetFinal\\Accordion\\163.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2658.wav",
+    "image_path": "DatasetFinal\\Accordion\\207.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1492.wav",
+    "image_path": "DatasetFinal\\Accordion\\186.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3434.wav",
+    "image_path": "DatasetFinal\\Accordion\\029.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1147.wav",
+    "image_path": "DatasetFinal\\Accordion\\081.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1911.wav",
+    "image_path": "DatasetFinal\\Accordion\\127.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3499.wav",
+    "image_path": "DatasetFinal\\Accordion\\080.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1609.wav",
+    "image_path": "DatasetFinal\\Accordion\\087.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2358.wav",
+    "image_path": "DatasetFinal\\Accordion\\112.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3568.wav",
+    "image_path": "DatasetFinal\\Accordion\\049.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3463.wav",
+    "image_path": "DatasetFinal\\Accordion\\093.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2289.wav",
+    "image_path": "DatasetFinal\\Accordion\\164.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3482.wav",
+    "image_path": "DatasetFinal\\Accordion\\193.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1867.wav",
+    "image_path": "DatasetFinal\\Accordion\\046.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1383.wav",
+    "image_path": "DatasetFinal\\Accordion\\179.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1054.wav",
+    "image_path": "DatasetFinal\\Accordion\\052.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2007.wav",
+    "image_path": "DatasetFinal\\Accordion\\181.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2525.wav",
+    "image_path": "DatasetFinal\\Accordion\\005.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\621.wav",
+    "image_path": "DatasetFinal\\Accordion\\159.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\353.wav",
+    "image_path": "DatasetFinal\\Accordion\\090.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1402.wav",
+    "image_path": "DatasetFinal\\Accordion\\068.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1186.wav",
+    "image_path": "DatasetFinal\\Accordion\\076.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2716.wav",
+    "image_path": "DatasetFinal\\Accordion\\098.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3004.wav",
+    "image_path": "DatasetFinal\\Accordion\\143.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1713.wav",
+    "image_path": "DatasetFinal\\Accordion\\044.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1982.wav",
+    "image_path": "DatasetFinal\\Accordion\\041.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\2996.wav",
+    "image_path": "DatasetFinal\\Accordion\\124.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\3200.wav",
+    "image_path": "DatasetFinal\\Accordion\\048.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\305.wav",
+    "image_path": "DatasetFinal\\Accordion\\129.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\277.wav",
+    "image_path": "DatasetFinal\\Accordion\\083.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\998.wav",
+    "image_path": "DatasetFinal\\Accordion\\101.jpg"
+  },
+  {
+    "instrument": "Accordion",
+    "audio_path": "DataSetAudio\\Accordion\\1858.wav",
+    "image_path": "DatasetFinal\\Accordion\\148.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1168.wav",
+    "image_path": "DatasetFinal\\banjo\\139.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1248.wav",
+    "image_path": "DatasetFinal\\banjo\\134.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1920.wav",
+    "image_path": "DatasetFinal\\banjo\\127.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1791.wav",
+    "image_path": "DatasetFinal\\banjo\\021.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\236.wav",
+    "image_path": "DatasetFinal\\banjo\\091.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2393.wav",
+    "image_path": "DatasetFinal\\banjo\\067.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\828.wav",
+    "image_path": "DatasetFinal\\banjo\\059.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2692.wav",
+    "image_path": "DatasetFinal\\banjo\\102.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2021.wav",
+    "image_path": "DatasetFinal\\banjo\\006.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\158.wav",
+    "image_path": "DatasetFinal\\banjo\\046.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\623.wav",
+    "image_path": "DatasetFinal\\banjo\\080.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2141.wav",
+    "image_path": "DatasetFinal\\banjo\\016.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1500.wav",
+    "image_path": "DatasetFinal\\banjo\\090.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\137.wav",
+    "image_path": "DatasetFinal\\banjo\\115.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2862.wav",
+    "image_path": "DatasetFinal\\banjo\\110.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2845.wav",
+    "image_path": "DatasetFinal\\banjo\\048.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\948.wav",
+    "image_path": "DatasetFinal\\banjo\\065.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1819.wav",
+    "image_path": "DatasetFinal\\banjo\\087.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\677.wav",
+    "image_path": "DatasetFinal\\banjo\\024.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\748.wav",
+    "image_path": "DatasetFinal\\banjo\\052.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\205.wav",
+    "image_path": "DatasetFinal\\banjo\\096.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1605.wav",
+    "image_path": "DatasetFinal\\banjo\\143.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\1878.wav",
+    "image_path": "DatasetFinal\\banjo\\066.jpg"
+  },
+  {
+    "instrument": "Banjo",
+    "audio_path": "DataSetAudio\\Banjo\\2310.wav",
+    "image_path": "DatasetFinal\\banjo\\025.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (240).wav",
+    "image_path": "DatasetFinal\\clarinet\\048.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\16.wav",
+    "image_path": "DatasetFinal\\clarinet\\014.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (116).wav",
+    "image_path": "DatasetFinal\\clarinet\\116.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (171).wav",
+    "image_path": "DatasetFinal\\clarinet\\091.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\112.wav",
+    "image_path": "DatasetFinal\\clarinet\\114.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (252).wav",
+    "image_path": "DatasetFinal\\clarinet\\088.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (161).wav",
+    "image_path": "DatasetFinal\\clarinet\\008.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\29.wav",
+    "image_path": "DatasetFinal\\clarinet\\099.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\326.wav",
+    "image_path": "DatasetFinal\\clarinet\\024.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (12).wav",
+    "image_path": "DatasetFinal\\clarinet\\066.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\239.wav",
+    "image_path": "DatasetFinal\\clarinet\\028.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\308.wav",
+    "image_path": "DatasetFinal\\clarinet\\111.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\208.wav",
+    "image_path": "DatasetFinal\\clarinet\\5.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (264).wav",
+    "image_path": "DatasetFinal\\clarinet\\2.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (30).wav",
+    "image_path": "DatasetFinal\\clarinet\\059.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (152).wav",
+    "image_path": "DatasetFinal\\clarinet\\090.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (77).wav",
+    "image_path": "DatasetFinal\\clarinet\\4.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (23).wav",
+    "image_path": "DatasetFinal\\clarinet\\046.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\223.wav",
+    "image_path": "DatasetFinal\\clarinet\\078.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\222.wav",
+    "image_path": "DatasetFinal\\clarinet\\006.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\122.wav",
+    "image_path": "DatasetFinal\\clarinet\\049.jpg"
+  },
+  {
+    "instrument": "Clarinet",
+    "audio_path": "DataSetAudio\\Clarinet\\330 (93).wav",
+    "image_path": "DatasetFinal\\clarinet\\013.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\2800.wav",
+    "image_path": "DatasetFinal\\flute\\074.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\2761.wav",
+    "image_path": "DatasetFinal\\flute\\168.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\2074.wav",
+    "image_path": "DatasetFinal\\flute\\042.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3675.wav",
+    "image_path": "DatasetFinal\\flute\\075.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\783.wav",
+    "image_path": "DatasetFinal\\flute\\129.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\1514.wav",
+    "image_path": "DatasetFinal\\flute\\177.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3169.wav",
+    "image_path": "DatasetFinal\\flute\\045.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\676.wav",
+    "image_path": "DatasetFinal\\flute\\118.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\297.wav",
+    "image_path": "DatasetFinal\\flute\\065.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3469.wav",
+    "image_path": "DatasetFinal\\flute\\040.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\753.wav",
+    "image_path": "DatasetFinal\\flute\\098.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\2489.wav",
+    "image_path": "DatasetFinal\\flute\\142.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\1137.wav",
+    "image_path": "DatasetFinal\\flute\\164.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3405.wav",
+    "image_path": "DatasetFinal\\flute\\100.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3423.wav",
+    "image_path": "DatasetFinal\\flute\\5.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\2224.wav",
+    "image_path": "DatasetFinal\\flute\\088.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\115.wav",
+    "image_path": "DatasetFinal\\flute\\017.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\1228.wav",
+    "image_path": "DatasetFinal\\flute\\007.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3690.wav",
+    "image_path": "DatasetFinal\\flute\\135.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\1337.wav",
+    "image_path": "DatasetFinal\\flute\\154.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3645.wav",
+    "image_path": "DatasetFinal\\flute\\058.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\909.wav",
+    "image_path": "DatasetFinal\\flute\\052.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\491.wav",
+    "image_path": "DatasetFinal\\flute\\050.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\215.wav",
+    "image_path": "DatasetFinal\\flute\\090.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\545.wav",
+    "image_path": "DatasetFinal\\flute\\063.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\3011.wav",
+    "image_path": "DatasetFinal\\flute\\086.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\826.wav",
+    "image_path": "DatasetFinal\\flute\\018.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\1830.wav",
+    "image_path": "DatasetFinal\\flute\\160.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\358.wav",
+    "image_path": "DatasetFinal\\flute\\015.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\2699.wav",
+    "image_path": "DatasetFinal\\flute\\048.jpg"
+  },
+  {
+    "instrument": "flute",
+    "audio_path": "DataSetAudio\\flute\\1359.wav",
+    "image_path": "DatasetFinal\\flute\\112.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\39.wav",
+    "image_path": "DatasetFinal\\harmonica\\030.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\64.wav",
+    "image_path": "DatasetFinal\\harmonica\\039.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\110.wav",
+    "image_path": "DatasetFinal\\harmonica\\064.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\49.wav",
+    "image_path": "DatasetFinal\\harmonica\\138.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\77.wav",
+    "image_path": "DatasetFinal\\harmonica\\041.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\28.wav",
+    "image_path": "DatasetFinal\\harmonica\\120.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\25.wav",
+    "image_path": "DatasetFinal\\harmonica\\116.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\126.wav",
+    "image_path": "DatasetFinal\\harmonica\\045.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\113.wav",
+    "image_path": "DatasetFinal\\harmonica\\042.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\118.wav",
+    "image_path": "DatasetFinal\\harmonica\\114.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\72.wav",
+    "image_path": "DatasetFinal\\harmonica\\087.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\16.wav",
+    "image_path": "DatasetFinal\\harmonica\\057.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\44.wav",
+    "image_path": "DatasetFinal\\harmonica\\013.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\119.wav",
+    "image_path": "DatasetFinal\\harmonica\\026.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\108.wav",
+    "image_path": "DatasetFinal\\harmonica\\031.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\34.wav",
+    "image_path": "DatasetFinal\\harmonica\\106.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\122.wav",
+    "image_path": "DatasetFinal\\harmonica\\072.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\89.wav",
+    "image_path": "DatasetFinal\\harmonica\\075.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\3.wav",
+    "image_path": "DatasetFinal\\harmonica\\121.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\109.wav",
+    "image_path": "DatasetFinal\\harmonica\\038.jpg"
+  },
+  {
+    "instrument": "Harmonica",
+    "audio_path": "DataSetAudio\\Harmonica\\131.wav",
+    "image_path": "DatasetFinal\\harmonica\\081.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\84.wav",
+    "image_path": "DatasetFinal\\piano\\3.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\172.wav",
+    "image_path": "DatasetFinal\\piano\\010.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\365.wav",
+    "image_path": "DatasetFinal\\piano\\048.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\54.wav",
+    "image_path": "DatasetFinal\\piano\\020.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\128.wav",
+    "image_path": "DatasetFinal\\piano\\102.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\261.wav",
+    "image_path": "DatasetFinal\\piano\\093.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\197.wav",
+    "image_path": "DatasetFinal\\piano\\1.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\256.wav",
+    "image_path": "DatasetFinal\\piano\\031.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\276.wav",
+    "image_path": "DatasetFinal\\piano\\114.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\552.wav",
+    "image_path": "DatasetFinal\\piano\\075.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\284.wav",
+    "image_path": "DatasetFinal\\piano\\012.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\484.wav",
+    "image_path": "DatasetFinal\\piano\\074.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\451.wav",
+    "image_path": "DatasetFinal\\piano\\110.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\184.wav",
+    "image_path": "DatasetFinal\\piano\\009.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\95.wav",
+    "image_path": "DatasetFinal\\piano\\044.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\112.wav",
+    "image_path": "DatasetFinal\\piano\\095.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\447.wav",
+    "image_path": "DatasetFinal\\piano\\002.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\62.wav",
+    "image_path": "DatasetFinal\\piano\\080.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\378.wav",
+    "image_path": "DatasetFinal\\piano\\103.jpg"
+  },
+  {
+    "instrument": "Piano",
+    "audio_path": "DataSetAudio\\Piano\\479.wav",
+    "image_path": "DatasetFinal\\piano\\113.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\230.wav",
+    "image_path": "DatasetFinal\\saxophone\\096.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\183.wav",
+    "image_path": "DatasetFinal\\saxophone\\127.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\120.wav",
+    "image_path": "DatasetFinal\\saxophone\\077.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\373.wav",
+    "image_path": "DatasetFinal\\saxophone\\116.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\415.wav",
+    "image_path": "DatasetFinal\\saxophone\\042.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\273.wav",
+    "image_path": "DatasetFinal\\saxophone\\053.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\344.wav",
+    "image_path": "DatasetFinal\\saxophone\\089.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\440.wav",
+    "image_path": "DatasetFinal\\saxophone\\112.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\394.wav",
+    "image_path": "DatasetFinal\\saxophone\\081.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\77.wav",
+    "image_path": "DatasetFinal\\saxophone\\060.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\213.wav",
+    "image_path": "DatasetFinal\\saxophone\\101.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\360.wav",
+    "image_path": "DatasetFinal\\saxophone\\125.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\262.wav",
+    "image_path": "DatasetFinal\\saxophone\\076.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\26.wav",
+    "image_path": "DatasetFinal\\saxophone\\025.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\89.wav",
+    "image_path": "DatasetFinal\\saxophone\\022.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\27.wav",
+    "image_path": "DatasetFinal\\saxophone\\006.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\401.wav",
+    "image_path": "DatasetFinal\\saxophone\\046.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\362.wav",
+    "image_path": "DatasetFinal\\saxophone\\030.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\182.wav",
+    "image_path": "DatasetFinal\\saxophone\\095.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\226.wav",
+    "image_path": "DatasetFinal\\saxophone\\108.jpg"
+  },
+  {
+    "instrument": "Saxophone",
+    "audio_path": "DataSetAudio\\Saxophone\\204.wav",
+    "image_path": "DatasetFinal\\saxophone\\070.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\257.wav",
+    "image_path": "DatasetFinal\\Tambourine\\074.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\549.wav",
+    "image_path": "DatasetFinal\\Tambourine\\049.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\75.wav",
+    "image_path": "DatasetFinal\\Tambourine\\076.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\141.wav",
+    "image_path": "DatasetFinal\\Tambourine\\2.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\507.wav",
+    "image_path": "DatasetFinal\\Tambourine\\229.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\305.wav",
+    "image_path": "DatasetFinal\\Tambourine\\070.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\205.wav",
+    "image_path": "DatasetFinal\\Tambourine\\225.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\398.wav",
+    "image_path": "DatasetFinal\\Tambourine\\126.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\32.wav",
+    "image_path": "DatasetFinal\\Tambourine\\239.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\167.wav",
+    "image_path": "DatasetFinal\\Tambourine\\160.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\180.wav",
+    "image_path": "DatasetFinal\\Tambourine\\186.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\287.wav",
+    "image_path": "DatasetFinal\\Tambourine\\082.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\348.wav",
+    "image_path": "DatasetFinal\\Tambourine\\031.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\89.wav",
+    "image_path": "DatasetFinal\\Tambourine\\243.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\342.wav",
+    "image_path": "DatasetFinal\\Tambourine\\136.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\476.wav",
+    "image_path": "DatasetFinal\\Tambourine\\154.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\327.wav",
+    "image_path": "DatasetFinal\\Tambourine\\143.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\165.wav",
+    "image_path": "DatasetFinal\\Tambourine\\141.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\280.wav",
+    "image_path": "DatasetFinal\\Tambourine\\002.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\261.wav",
+    "image_path": "DatasetFinal\\Tambourine\\158.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\514.wav",
+    "image_path": "DatasetFinal\\Tambourine\\164.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\131.wav",
+    "image_path": "DatasetFinal\\Tambourine\\081.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\397.wav",
+    "image_path": "DatasetFinal\\Tambourine\\035.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\435.wav",
+    "image_path": "DatasetFinal\\Tambourine\\124.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\336.wav",
+    "image_path": "DatasetFinal\\Tambourine\\114.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\548.wav",
+    "image_path": "DatasetFinal\\Tambourine\\250.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\51.wav",
+    "image_path": "DatasetFinal\\Tambourine\\052.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\241.wav",
+    "image_path": "DatasetFinal\\Tambourine\\269.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\415.wav",
+    "image_path": "DatasetFinal\\Tambourine\\099.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\506.wav",
+    "image_path": "DatasetFinal\\Tambourine\\042.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\475.wav",
+    "image_path": "DatasetFinal\\Tambourine\\235.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\135.wav",
+    "image_path": "DatasetFinal\\Tambourine\\038.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\77.wav",
+    "image_path": "DatasetFinal\\Tambourine\\199.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\497.wav",
+    "image_path": "DatasetFinal\\Tambourine\\241.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\335.wav",
+    "image_path": "DatasetFinal\\Tambourine\\210.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\10.wav",
+    "image_path": "DatasetFinal\\Tambourine\\084.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\130.wav",
+    "image_path": "DatasetFinal\\Tambourine\\123.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\296.wav",
+    "image_path": "DatasetFinal\\Tambourine\\092.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\347.wav",
+    "image_path": "DatasetFinal\\Tambourine\\260.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\38.wav",
+    "image_path": "DatasetFinal\\Tambourine\\196.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\355.wav",
+    "image_path": "DatasetFinal\\Tambourine\\137.jpg"
+  },
+  {
+    "instrument": "Tambourine",
+    "audio_path": "DataSetAudio\\Tambourine\\308.wav",
+    "image_path": "DatasetFinal\\Tambourine\\010.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1016.wav",
+    "image_path": "DatasetFinal\\trombone\\013.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1535.wav",
+    "image_path": "DatasetFinal\\trombone\\157.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2527.wav",
+    "image_path": "DatasetFinal\\trombone\\125.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1562.wav",
+    "image_path": "DatasetFinal\\trombone\\127.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\789.wav",
+    "image_path": "DatasetFinal\\trombone\\041.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1572.wav",
+    "image_path": "DatasetFinal\\trombone\\113.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2744.wav",
+    "image_path": "DatasetFinal\\trombone\\043.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\21.wav",
+    "image_path": "DatasetFinal\\trombone\\064.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1657.wav",
+    "image_path": "DatasetFinal\\trombone\\028.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2157.wav",
+    "image_path": "DatasetFinal\\trombone\\001.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1461.wav",
+    "image_path": "DatasetFinal\\trombone\\084.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1447.wav",
+    "image_path": "DatasetFinal\\trombone\\008.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2171.wav",
+    "image_path": "DatasetFinal\\trombone\\117.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\773.wav",
+    "image_path": "DatasetFinal\\trombone\\100.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\953.wav",
+    "image_path": "DatasetFinal\\trombone\\071.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\140.wav",
+    "image_path": "DatasetFinal\\trombone\\074.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1122.wav",
+    "image_path": "DatasetFinal\\trombone\\154.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1520.wav",
+    "image_path": "DatasetFinal\\trombone\\078.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2548.wav",
+    "image_path": "DatasetFinal\\trombone\\025.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2067.wav",
+    "image_path": "DatasetFinal\\trombone\\1.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1542.wav",
+    "image_path": "DatasetFinal\\trombone\\143.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\2260.wav",
+    "image_path": "DatasetFinal\\trombone\\003.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\1059.wav",
+    "image_path": "DatasetFinal\\trombone\\020.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\90.wav",
+    "image_path": "DatasetFinal\\trombone\\122.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\237.wav",
+    "image_path": "DatasetFinal\\trombone\\098.jpg"
+  },
+  {
+    "instrument": "Trombone",
+    "audio_path": "DataSetAudio\\Trombone\\481.wav",
+    "image_path": "DatasetFinal\\trombone\\152.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\376.wav",
+    "image_path": "DatasetFinal\\trumpet\\059.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\439.wav",
+    "image_path": "DatasetFinal\\trumpet\\030.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\31.wav",
+    "image_path": "DatasetFinal\\trumpet\\002.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\109.wav",
+    "image_path": "DatasetFinal\\trumpet\\139.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\312.wav",
+    "image_path": "DatasetFinal\\trumpet\\128.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\288.wav",
+    "image_path": "DatasetFinal\\trumpet\\029.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\186.wav",
+    "image_path": "DatasetFinal\\trumpet\\043.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\363.wav",
+    "image_path": "DatasetFinal\\trumpet\\147.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\395.wav",
+    "image_path": "DatasetFinal\\trumpet\\021.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\249.wav",
+    "image_path": "DatasetFinal\\trumpet\\101.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\173.wav",
+    "image_path": "DatasetFinal\\trumpet\\036.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\466.wav",
+    "image_path": "DatasetFinal\\trumpet\\027.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\289.wav",
+    "image_path": "DatasetFinal\\trumpet\\066.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\171.wav",
+    "image_path": "DatasetFinal\\trumpet\\011.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\64.wav",
+    "image_path": "DatasetFinal\\trumpet\\140.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\283.wav",
+    "image_path": "DatasetFinal\\trumpet\\2.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\136.wav",
+    "image_path": "DatasetFinal\\trumpet\\107.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\162.wav",
+    "image_path": "DatasetFinal\\trumpet\\161.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\368.wav",
+    "image_path": "DatasetFinal\\trumpet\\096.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\18.wav",
+    "image_path": "DatasetFinal\\trumpet\\084.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\231.wav",
+    "image_path": "DatasetFinal\\trumpet\\100.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\98.wav",
+    "image_path": "DatasetFinal\\trumpet\\146.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\50.wav",
+    "image_path": "DatasetFinal\\trumpet\\053.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\377.wav",
+    "image_path": "DatasetFinal\\trumpet\\125.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\213.wav",
+    "image_path": "DatasetFinal\\trumpet\\133.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\311.wav",
+    "image_path": "DatasetFinal\\trumpet\\086.jpg"
+  },
+  {
+    "instrument": "Trumpet",
+    "audio_path": "DataSetAudio\\Trumpet\\403.wav",
+    "image_path": "DatasetFinal\\trumpet\\156.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\421.wav",
+    "image_path": "DatasetFinal\\violin\\097.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\371.wav",
+    "image_path": "DatasetFinal\\violin\\026.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\630.wav",
+    "image_path": "DatasetFinal\\violin\\007.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\48.wav",
+    "image_path": "DatasetFinal\\violin\\047.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\192.wav",
+    "image_path": "DatasetFinal\\violin\\034.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\160.wav",
+    "image_path": "DatasetFinal\\violin\\1.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\202.wav",
+    "image_path": "DatasetFinal\\violin\\012.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\228.wav",
+    "image_path": "DatasetFinal\\violin\\059.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\589.wav",
+    "image_path": "DatasetFinal\\violin\\088.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\83.wav",
+    "image_path": "DatasetFinal\\violin\\064.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\18.wav",
+    "image_path": "DatasetFinal\\violin\\113.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\598.wav",
+    "image_path": "DatasetFinal\\violin\\126.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\245.wav",
+    "image_path": "DatasetFinal\\violin\\030.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\511.wav",
+    "image_path": "DatasetFinal\\violin\\043.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\522.wav",
+    "image_path": "DatasetFinal\\violin\\078.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\291.wav",
+    "image_path": "DatasetFinal\\violin\\058.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\235.wav",
+    "image_path": "DatasetFinal\\violin\\4.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\615.wav",
+    "image_path": "DatasetFinal\\violin\\036.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\116.wav",
+    "image_path": "DatasetFinal\\violin\\002.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\89.wav",
+    "image_path": "DatasetFinal\\violin\\046.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\128.wav",
+    "image_path": "DatasetFinal\\violin\\124.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\90.wav",
+    "image_path": "DatasetFinal\\violin\\139.jpg"
+  },
+  {
+    "instrument": "Violin",
+    "audio_path": "DataSetAudio\\Violin\\216.wav",
+    "image_path": "DatasetFinal\\violin\\112.jpg"
+  }
+]

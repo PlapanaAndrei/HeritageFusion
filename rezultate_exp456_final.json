@@ -1,0 +1,2217 @@
+{
+  "n_perechi": 290,
+  "clase_comune": [
+    "Accordion",
+    "Banjo",
+    "Clarinet",
+    "Harmonica",
+    "Piano",
+    "Saxophone",
+    "Tambourine",
+    "Trombone",
+    "Trumpet",
+    "Violin",
+    "flute"
+  ],
+  "exp4_audio_only": {
+    "accuracy": 0.9793103448275862,
+    "precision": 0.9772379180273917,
+    "recall": 0.9753815208360663,
+    "f1_score": 0.9757546121509161,
+    "confusion_matrix": [
+      [
+        33,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        24,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        20,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        18,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        42,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        26,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        26,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        31
+      ]
+    ]
+  },
+  "exp5_image_only": {
+    "accuracy": 0.9620689655172414,
+    "precision": 0.9627730224321134,
+    "recall": 0.9616835863170174,
+    "f1_score": 0.9619027054099267,
+    "confusion_matrix": [
+      [
+        33,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        24,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        19,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        19,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        41,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        26,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        26,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        27
+      ]
+    ]
+  },
+  "exp6_late_fusion": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        33,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        24,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        22,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        42,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        26,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        27,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        31
+      ]
+    ]
+  },
+  "complementaritate": {
+    "corect_corect": 274,
+    "corect_gresit": 10,
+    "gresit_corect": 5,
+    "gresit_gresit": 1
+  },
+  "predictii_detaliate": [
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Accordion",
+      "pred_audio": "Accordion",
+      "pred_image": "Accordion",
+      "pred_fusion": "Accordion"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Banjo",
+      "pred_audio": "Banjo",
+      "pred_image": "Banjo",
+      "pred_fusion": "Banjo"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "flute",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Saxophone",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "flute",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "Clarinet",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "Clarinet",
+      "pred_audio": "Clarinet",
+      "pred_image": "flute",
+      "pred_fusion": "Clarinet"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "Clarinet",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "Clarinet",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "Clarinet",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "flute",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "flute",
+      "pred_audio": "flute",
+      "pred_image": "Harmonica",
+      "pred_fusion": "flute"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Harmonica",
+      "pred_audio": "Harmonica",
+      "pred_image": "Harmonica",
+      "pred_fusion": "Harmonica"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Piano",
+      "pred_audio": "Piano",
+      "pred_image": "Piano",
+      "pred_fusion": "Piano"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Trumpet",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Violin",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Piano",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Saxophone",
+      "pred_audio": "Saxophone",
+      "pred_image": "Saxophone",
+      "pred_fusion": "Saxophone"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "flute",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Tambourine",
+      "pred_audio": "Tambourine",
+      "pred_image": "Tambourine",
+      "pred_fusion": "Tambourine"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trombone",
+      "pred_audio": "Trombone",
+      "pred_image": "Trombone",
+      "pred_fusion": "Trombone"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trombone",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "flute",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Trumpet",
+      "pred_audio": "Trumpet",
+      "pred_image": "Trumpet",
+      "pred_fusion": "Trumpet"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    },
+    {
+      "instrument_real": "Violin",
+      "pred_audio": "Violin",
+      "pred_image": "Violin",
+      "pred_fusion": "Violin"
+    }
+  ]
+}
